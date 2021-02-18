@@ -1,4 +1,15 @@
-## 合成大西瓜
-被西瓜整崩溃了,改动了一下代码，点击右上角的宝箱会切换水果。破坏游戏体验，谨慎尝试。
-分支「default」是未改动代码
-> ![image](https://github.com/JennerTien/bigwaterlemon/blob/main/1611557925872957.gif)
+# 合成大** 
+
+雾，群友发出的东西，太奇怪了，由于是个三句不离几把的群，那我就魔改一个合成大**  吧（
+
+Link: http://https://chonesetdopa.github.io/Mix-C/index.html ""
+
+如果可以的话（能来一个star就更好啦（
+
+# 食用指南:
+
+克隆这份代码，双击index.html 或者 直接点击上方的链接
+
+网站总PV达到了23w，最大同时活动量达到了3w
+
+所以为什么几把那么受欢迎（逃
