@@ -1,15 +1,22 @@
-# 合成大** 
+## 合成大西瓜
 
-雾，群友发出的东西，太奇怪了，由于是个三句不离几把的群，那我就魔改一个合成大**  吧（
+未修改版源码，可直接在浏览器运行
 
-Link: http://https://chonesetdopa.github.io/Mix-C/index.html ""
+在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
 
-如果可以的话（能来一个star就更好啦（
 
-# 食用指南:
+### 本地启动
 
-克隆这份代码，双击index.html 或者 直接点击上方的链接
+1. 安装 serve 工具：
 
-网站总PV达到了23w，最大同时活动量达到了3w
+    ```bash
+    npm run serve
+    ```
 
-所以为什么几把那么受欢迎（逃
+2. 进入 daxigua 目录，运行 serve：
+
+    ```bash
+    serve
+    ```
+   
+3. 打开浏览器访问 localhost:5000 即可！
